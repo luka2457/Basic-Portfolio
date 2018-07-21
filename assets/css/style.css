@@ -111,6 +111,7 @@ h1 {
  .cricket {
      position: relative;
      margin: 20px;
+     float: left;
 
  }
 
@@ -127,6 +128,7 @@ h1 {
  .surfing {
      position: relative;
      margin: 20px;
+     float: left;
 
  }
 
@@ -142,6 +144,7 @@ h1 {
  .golf {
      position: relative;
      margin: 20px;
+     float: left;
 
  }
 
@@ -212,4 +215,8 @@ textarea {
 
 h4 {
     margin-bottom:0px;
+}
+
+.portfoliomain {
+    height:600px;
 }
